@@ -16,4 +16,4 @@ $ProcessManagerAssembly = [System.Reflection.Assembly]::Load([Convert]::FromBase
 
 The above removes steps of downloading the binary and converting it into Assembly. Removes the binary from going on-disk and straight into memory. Operationally its a little bit cleaner on system forensics - If network capture is enabled on the environment the technique can be identified. You can add some sort of encryption to avoid detection.
 
-Disclaimer: The things you do with the tools in this repository are only liable with the offending operator(s).
+*Disclaimer: The things you do with the tools in this repository are only liable with the offending operator(s).*
