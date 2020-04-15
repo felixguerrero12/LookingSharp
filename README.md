@@ -5,6 +5,8 @@ This repository has been created to hold all the .net binaries used for Reflecti
 - ProcessManager
 - Rubeus
 - UrbanBishop
+- SharpStay
+- SeatBelt
 
 # Usage:
 ```
