@@ -2,9 +2,12 @@
 This repository has been created to hold all the .net binaries used for Reflection Assembly loading. For this to work the host has to be able to access githubusercontent.com. The reason for adding the Powershell v1.0 is because syswow64 lets you run 32 bit system executables from 64 bit code. Sysnative lets you run 64 bit system executables from 32 bit code.
 
 # Tools currently available:
-- ProcessManager - SharpGPOAbuse
-- Rubeus - UrbanBishop
-- SharpStay - SeatBelt
+- ProcessManager
+- SharpGPOAbuse
+- Rubeus
+- UrbanBishop
+- SharpStay
+- SeatBelt
 
 # Usage:
 ```
